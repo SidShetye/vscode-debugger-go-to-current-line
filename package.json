@@ -2,7 +2,7 @@
   "name": "debugger-go-to-current-line",
   "displayName": "Debugger: Go To Current Line",
   "description": "Adds a button to the debugger toolbar, to take you back to the line where the debugger is currently paused.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -62,5 +62,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/SidShetye/vscode-debugger-go-to-current-line"
-  }
+  },
+  "icon": "images/icon.png"
 }
